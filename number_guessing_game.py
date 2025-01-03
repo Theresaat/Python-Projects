@@ -17,7 +17,6 @@ else:
 random_number= random.randint(0, max_range)
 guesses = 0
 
-
 # Start the guessing game loop
 while True:
     guesses += 1
